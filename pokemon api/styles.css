@@ -1,0 +1,83 @@
+* {
+  border: 0px;
+  border: border-box;
+}
+
+body {
+  background-image: url("71683dea448c35e8394ebac7df28bd82.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  height: 700px;
+  width: 500px;
+  color: aliceblue;
+  -webkit-text-stroke: 0.5px black;
+  font-size: 45px;
+  border: 1px white bold;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(HD-wallpaper-pikachu-abstract-background-pattern.jpg);
+  border-radius: 5%;
+  box-shadow: 10px 10px 10px 10px black;
+}
+.headding {
+  height: 80px;
+  width: 480px;
+  border: 1px solid white;
+  border-radius: 12px;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: #f1b963;
+}
+.joke {
+  margin: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 430px;
+  width: 480px;
+  background-color: rgb(249, 255, 165);
+}
+.next {
+  height: 67px;
+  width: 490px;
+  background: #f1b963;
+  color: white;
+  border: 1px transparent rgb(255, 255, 255);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.next:hover {
+  border: solid;
+}
+.SEARCH {
+  margin-top: 5px;
+  height: 60px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  height: 50px;
+  width: 450px;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
